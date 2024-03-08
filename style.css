@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+.cabecalho {
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+.logo {
+    width: 35%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 15px;
+    padding: 65px 0;
+    font-size: 25px;
+}
+.escola-imagem {
+    width: 30%;
+}
+.escola{
+    background-image: linear-gradient(#000000, #c51111d7);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 55px;
+}
+.escola-div-conteudo{
+    font-size: 30px;
+    width: 50%;
+}
+.escola-titulo{
+    font-size: 55px;
+    padding: 35px 0;
+}
+.Estudante-imagem{
+    width: 300px;
+}
+.Estudante-icone{
+    width: 45px;
+}
+.Estudante-nome{
+    font-size: 45px;
+}
+.Estudante{
+    background-image: linear-gradient(#c51111d7, #c51111d7);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 55px;
+}
+.Estudante-titulo{
+    text-align: center;
+    font-size: 55px;
+}
+.Estudante-div{
+    padding: 150px;
+}
+.insta-nick{
+    font-size: 25px;
+}
+.texto-aluno-div{
+    font-size: 35px;
+}
+.rodape{
+    background-color: #000000;
+    text-align: center;
+    padding: 35px;
+}
+.rodape-imagem{
+    height: 70px;
+    font-size: 45px;
+}
